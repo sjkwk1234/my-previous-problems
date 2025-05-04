@@ -1,0 +1,2 @@
+Sun May  4 12:17:51 KST 2025
+Changed permissions of private.sh to 500
